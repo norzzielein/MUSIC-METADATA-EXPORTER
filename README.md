@@ -3,7 +3,7 @@
     <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "Python Project Header" style = "width: 100%;" />
     <div align = "center" style = "width: 100%;">
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 34%;" />
+        <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 34%; height: 34px" />
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "Email Address" style = "width: 33px;"></a>
         <!-- PHONE -->
@@ -19,6 +19,6 @@
         <!-- TWITTER -->
         <a href = "https://twitter.com/norzzielein" title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" style = "width: 33px;"></a>
         <!-- TRAILER -->
-        <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 34%;" />
+        <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 34%; height: 34px" />
     </div>
 </div>
