@@ -11,7 +11,7 @@
         <!-- LINKEDIN -->
         <a href = "https://www.linkedin.com/in/norzzielein" title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" style = "width: 33px; height: 34px"></a>
         <!-- GITHUB -->
-        <a href = "https://github.com/norzzielein" title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" style = "width: 33px; height: 34px"></a>
+        <a href = "https://github.com/norzzielein" title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" style = "width: 32px; height: 33px"></a>
         <!-- FACEBOOK -->
         <a href = "https://www.facebook.com/norzzielein" title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/FacebookIcon.png" alt = "Facebook Account" style = "width: 33px; height: 34px"></a>
         <!-- INSTAGRAM -->
