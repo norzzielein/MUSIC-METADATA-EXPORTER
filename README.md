@@ -1,6 +1,6 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
-   <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
+   <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "Python Project Header" style = "width: 100%;" />
      <div align = "center" style = "width: 100%;">
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "E-Mail Address" style = "width: 114px; height: auto"></a>   
