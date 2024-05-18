@@ -1,6 +1,6 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
-   <a href = "https://github.com/norzzielein"> <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
+   <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "GitHub Profile Header" style = "width: 100%;" />
      <div align = "center" style = "width: 100%;">
         <!-- E-MAIL -->
         <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "E-Mail Address" style = "width: 114px; height: auto"></a>   
@@ -18,7 +18,7 @@
         <a href = "https://twitter.com/norzzielein" title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" style = "width: 114px; height: auto"></a>
     </div>
     <!-- TRAILER -->
-    <a href = "https://github.com/norzzielein"> <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
+    <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
 </div>
 
 <!-- DESCRIPTION -->
