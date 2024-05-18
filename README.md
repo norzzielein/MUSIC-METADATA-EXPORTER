@@ -21,20 +21,13 @@
     <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
 </div>
 
-<!-- DESCRIPTION -->
-<blockquote>
-    <div align = "justify">
-        <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "40"/></a> <br>
-       A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.
-    </div>
-</blockquote>
-
-
-
+### 🖥️ 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
 
 <div align = "justify">
-
+A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.
 </div>
+
+### 🖥️ 𝗙𝗜𝗟𝗘𝗦
 
 <!-- FOOTER -->
 <img src = "IMPORT FILES/PythonProjectFooter.png" alt = "Python Project Footer"></a>
