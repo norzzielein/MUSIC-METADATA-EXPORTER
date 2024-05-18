@@ -1,1 +1,3 @@
-
+[submodule "MUSIC METADATA EXPORTER SUBMODULE"]
+    path = EXPORT FILES
+    url = https://github.com/norzzielein/PRIVATE-DATA-ARCHIVE/tree/3598d4fa083cdde89d645732a95ad4a1fd1bbc9b/MUSIC%20METADATA%20EXPORTER
