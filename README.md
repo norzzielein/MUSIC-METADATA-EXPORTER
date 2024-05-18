@@ -20,3 +20,11 @@
     <!-- TRAILER -->
     <a href = "https://github.com/norzzielein"> <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
 </div>
+
+### 🖥️ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬: 
+<a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER" title = "A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.">
+        <img src = "IMPORT FILES/MusicMetadataExporter.png" alt = "Music Metadata Exporter" height = "40"/></a>
+
+<div align = "justify">
+A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.
+</div>
