@@ -21,16 +21,20 @@
     <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
 </div>
 
-### 🖥️ 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
+### 🖥️ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
 
-<!-- MARKDOWN FILE -->
-<a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER/blob/Norie-Neil-Acosta/README.md" title = "Markdown File"> <img src = "IMPORT FILES/MDFileIcon.png" alt = "MD File Icon" style = "width: 80px; height: auto"></a>
-<a href = "MUSIC METADATA EXPORTER.ipynb" title = "IPython Notebook"> <img src = "IMPORT FILES/IPYNBFileIcon.png" alt = "IPYNB File Icon" style = "width: 80px; height: auto"></a>
 <div align = "justify">
 A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.
 </div>
 
-### 🖥️ 𝗙𝗜𝗟𝗘𝗦
+### 🖥️ 𝗔𝗦𝗦𝗢𝗖𝗜𝗔𝗧𝗘𝗗 𝗙𝗜𝗟𝗘𝗦
+
+<div align = "center">
+    <a href = "README.md" title = "Markdown File"> <img src = "IMPORT FILES/MDFileIcon.png" alt = "MD File Icon" style = "width: 75px; height: auto"></a>
+    <a href = "MUSIC METADATA EXPORTER.ipynb" title = "IPython Notebook"> <img src = "IMPORT FILES/IPYNBFileIcon.png" alt = "IPYNB File Icon" style = "width: 75px; height: auto"></a>
+    <a href = "IMPORT FILES" title = "Import Files"> <img src = "IMPORT FILES/IMPFileIcon.png" alt = "IMP File Icon" style = "width: 75px; height: auto"></a>
+    <a href = "EMPORT FILES" title = "Export Files"> <img src = "IMPORT FILES/EXPFileIcon.png" alt = "EXP File Icon" style = "width: 75px; height: auto"></a>
+</div>    
 
 <!-- FOOTER -->
 <img src = "IMPORT FILES/PythonProjectFooter.png" alt = "Python Project Footer"></a>
