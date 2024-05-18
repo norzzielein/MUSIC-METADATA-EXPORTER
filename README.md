@@ -23,6 +23,9 @@
 
 ### 🖥️ 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
 
+<!-- MARKDOWN FILE -->
+<a href = "https://github.com/norzzielein/MUSIC-METADATA-EXPORTER/blob/Norie-Neil-Acosta/README.md" title = "Markdown File"> <img src = "IMPORT FILES/MDFileIcon.png" alt = "MD File Icon" style = "width: 80px; height: auto"></a>
+<a href = "MUSIC METADATA EXPORTER.ipynb" title = "IPython Notebook"> <img src = "IMPORT FILES/IPYNBFileIcon.png" alt = "IPYNB File Icon" style = "width: 80px; height: auto"></a>
 <div align = "justify">
 A Python-based project designed to streamline the organization of metadata from MP3 files. The project incorporates functionalities to extract album artwork and export essential information such as music titles, albums, artists, durations, and file sizes into an Excel file, providing users with a comprehensive overview of their MP3 music library.
 </div>
