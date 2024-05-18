@@ -33,7 +33,7 @@ A Python-based project designed to streamline the organization of metadata from 
     <a href = "README.md" title = "Markdown File"> <img src = "IMPORT FILES/MDFileIcon.png" alt = "MD File Icon" style = "width: 75px; height: auto"></a>
     <a href = "MUSIC METADATA EXPORTER.ipynb" title = "IPython Notebook"> <img src = "IMPORT FILES/IPYNBFileIcon.png" alt = "IPYNB File Icon" style = "width: 75px; height: auto"></a>
     <a href = "IMPORT FILES" title = "Import Files"> <img src = "IMPORT FILES/IMPFileIcon.png" alt = "IMP File Icon" style = "width: 75px; height: auto"></a>
-    <a href = "EMPORT FILES" title = "Export Files"> <img src = "IMPORT FILES/EXPFileIcon.png" alt = "EXP File Icon" style = "width: 75px; height: auto"></a>
+    <a href = "EXPORT FILES" title = "Export Files"> <img src = "IMPORT FILES/EXPFileIcon.png" alt = "EXP File Icon" style = "width: 75px; height: auto"></a>
 </div>    
 
 <!-- FOOTER -->
