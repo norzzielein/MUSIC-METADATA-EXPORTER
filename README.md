@@ -1,24 +1,23 @@
 <div style = "display: flex; flex-direction: column; align-items: center;">
     <!-- HEADER -->
-   <img src = "IMPORT FILES/PythonProjectHeader.png" alt = "Python Project Header" style = "width: 100%;" />
+    <img src = "IMPORT FILES/PROJECTHeader.png" alt = "Project Header" style = "width: 100%;" />
      <div align = "center" style = "width: 100%;">
         <!-- E-MAIL -->
-        <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/EmailIcon.png" alt = "E-Mail Address" style = "width: 114px; height: auto"></a>   
+        <a href = "norieneil_acosta@outlook.com" title = "E-MAIL: norieneil_acosta@outlook.com"> <img src = "IMPORT FILES/LINKICONEmail.png" alt = "E-Mail Link Icon" style = "width: 114px; height: auto"></a>
          <!-- PHONE -->
-        <a href = "09673381501" title = "PHONE: 09673381501"> <img src = "IMPORT FILES/PhoneIcon.png" alt = "Contact Number" style = "width: 114px; height: auto"></a>
+        <a href = "09673381501" title = "PHONE: 09673381501"> <img src = "IMPORT FILES/LINKICONPhone.png" alt = "Contact Link Icon" style = "width: 114px; height: auto"></a>
         <!-- LINKEDIN -->
-        <a href = "https://www.linkedin.com/in/norzzielein" title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LinkedInIcon.png" alt = "LinkedIn Account" style = "width: 114px; height: auto"></a>
+        <a href = "https://www.linkedin.com/in/norzzielein" title = "LINKEDIN: https://www.linkedin.com/in/norzzielein"> <img src = "IMPORT FILES/LINKICONLinkedIn.png" alt = "LinkedIn Link Icon" style = "width: 114px; height: auto"></a>
         <!-- GITHUB -->
-        <a href = "https://github.com/norzzielein" title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/GitHubIcon.png" alt = "GitHub Account" style = "width: 114px; height: auto"></a>
+        <a href = "https://github.com/norzzielein" title = "GITHUB: https://github.com/norzzielein"> <img src = "IMPORT FILES/LINKICONGitHub.png" alt = "GitHub Link Icon" style = "width: 114px; height: auto"></a>
         <!-- FACEBOOK -->
-        <a href = "https://www.facebook.com/norzzielein" title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/FacebookIcon.png" alt = "Facebook Account" style = "width: 114px; height: auto"></a>
+        <a href = "https://www.facebook.com/norzzielein" title = "FACEBOOK: https://www.facebook.com/norzzielein"> <img src = "IMPORT FILES/LINKICONFacebook.png" alt = "Facebook Link Icon" style = "width: 114px; height: auto"></a>
         <!-- INSTAGRAM -->
-        <a href = "https://www.instagram.com/norzzielein" title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/InstagramIcon.png" alt = "Instagram Account" style = "width: 114px; height: auto"></a>
+        <a href = "https://www.instagram.com/norzzielein" title = "INSTAGRAM: https://www.instagram.com/norzzielein"> <img src = "IMPORT FILES/LINKICONInstagram.png" alt = "Instagram Link Icon" style = "width: 114px; height: auto"></a>
         <!-- TWITTER -->
-        <a href = "https://twitter.com/norzzielein" title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/TwitterIcon.png" alt = "Twitter Account" style = "width: 114px; height: auto"></a>
-    </div>
+        <a href = "https://twitter.com/norzzielein" title = "TWITTER: https://twitter.com/norzzielein"> <img src = "IMPORT FILES/LINKICONTwitter.png" alt = "Twitter Link Icon" style = "width: 114px; height: auto"></a>
     <!-- TRAILER -->
-    <img src = "IMPORT FILES/PythonProjectTrailer.png" alt = "Python Project Trailer" style = "width: 100%;" />    
+    <img src = "IMPORT FILES/PROJECTTrailer.png" alt = "Project Trailer" style = "width: 100%;" />    
 </div>
 
 ### 🖥️ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
@@ -39,10 +38,10 @@ A Python-based project designed to streamline the organization of metadata from 
 >     <!-- XLSX -->
 >     <a href = "EXPORT FILES/MusicMetadata.enc" title = "MUSIC METADATA (Encrypted File)"> <img src = "IMPORT FILES/XLSXFileIcon.png" alt = "XLSX File Icon" style = "width: 75px; height: auto"></a>
 > </div>    
-> 
-> <div align = "justify">
-> For access to the encrypted files contained within this GitHub repository and to obtain the necessary decryption key, please direct the inquiries to the rightful repository administrator and author via the available contact information. These files have been encrypted to safeguard sensitive and private data, ensuring compliance with privacy and security protocols of the GitHub community.
-> </div>
+ 
+<div align = "justify">
+For access to the encrypted files contained within this GitHub repository and to obtain the necessary decryption key, please direct the inquiries to the rightful repository administrator and author via the available contact information. These files have been encrypted to safeguard sensitive and private data, ensuring compliance with privacy and security protocols of the GitHub community.
+</div>
 
 <!-- FOOTER -->
-<img src = "IMPORT FILES/PythonProjectFooter.png" alt = "Python Project Footer"></a>
+<img src = "IMPORT FILES/PROJECTFooter.png" alt = "Project Footer"></a>
