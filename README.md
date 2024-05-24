@@ -29,14 +29,10 @@ A Python-based project designed to streamline the organization of metadata from 
 ### 🖥️ 𝗔𝗦𝗦𝗢𝗖𝗜𝗔𝗧𝗘𝗗 𝗙𝗜𝗟𝗘𝗦
 
 > <div align = "justify">
->     <!-- MD -->
->     <a href = "README.md" title = "MUSIC METADATA EXPORTER (Markdown File)"> <img src = "IMPORT FILES/MDFileIcon.png" alt = "MD File Icon" style = "width: 75px; height: auto"></a>
->     <!-- IPYNB -->
->     <a href = "MUSIC METADATA EXPORTER.ipynb" title = "MUSIC METADATA EXPORTER (IPython Notebook)"> <img src = "IMPORT FILES/IPYNBFileIcon.png" alt = "IPYNB File Icon" style = "width: 75px; height: auto"></a>
->     <!-- ZIP -->
->     <a href = "EXPORT FILES/MUSIC ALBUM ARTS.enc" title = "MUSIC ALBUM ARTS (Encrypted Folder)"> <img src = "IMPORT FILES/ZIPFileIcon.png" alt = "ZIP File Icon" style = "width: 75px; height: auto"></a>
->     <!-- XLSX -->
->     <a href = "EXPORT FILES/MusicMetadata.enc" title = "MUSIC METADATA (Encrypted File)"> <img src = "IMPORT FILES/XLSXFileIcon.png" alt = "XLSX File Icon" style = "width: 75px; height: auto"></a>
+>     <a href = "README.md" title = "MUSIC METADATA EXPORTER (Markdown File)"> <img src = "IMPORT FILES/FILEICONREADMEFile.png" alt = "MD File Icon" style = "width: 65px; height: auto"></a>
+>     <a href = "MUSIC METADATA EXPORTER.ipynb" title = "MUSIC METADATA EXPORTER (IPython Notebook)"> <img src = "IMPORT FILES/FILEICONIPYNBFile.png" alt = "IPYNB File Icon" style = "width: 65px; height: auto"></a>
+>     <a href = "EXPORT FILES/MUSIC ALBUM ARTS.enc" title = "MUSIC ALBUM ARTS (Encrypted Folder)"> <img src = "IMPORT FILES/FILEICONZIPFile.png" alt = "ZIP File Icon" style = "width: 65px; height: auto"></a>
+>     <a href = "EXPORT FILES/MusicMetadata.enc" title = "MUSIC METADATA (Encrypted File)"> <img src = "IMPORT FILES/FILEICONXLSXFile.png" alt = "XLSX File Icon" style = "width: 65px; height: auto"></a>
 > </div>    
  
 <div align = "justify">
