@@ -28,7 +28,7 @@ A Python-based project designed to streamline the organization of metadata from 
 
 ### 🖥️ 𝗔𝗦𝗦𝗢𝗖𝗜𝗔𝗧𝗘𝗗 𝗙𝗜𝗟𝗘𝗦
 
-> <div align = "justify">
+> <div align = "left">
 >     <a href = "README.md" title = "MUSIC METADATA EXPORTER (Markdown File)"> <img src = "IMPORT FILES/FILEICONREADMEFile.png" alt = "MD File Icon" style = "width: 65px; height: auto"></a>
 >     <a href = "MUSIC METADATA EXPORTER.ipynb" title = "MUSIC METADATA EXPORTER (IPython Notebook)"> <img src = "IMPORT FILES/FILEICONIPYNBFile.png" alt = "IPYNB File Icon" style = "width: 65px; height: auto"></a>
 >     <a href = "EXPORT FILES/MUSIC ALBUM ARTS.enc" title = "MUSIC ALBUM ARTS (Encrypted Folder)"> <img src = "IMPORT FILES/FILEICONZIPFile.png" alt = "ZIP File Icon" style = "width: 65px; height: auto"></a>
@@ -37,7 +37,7 @@ A Python-based project designed to streamline the organization of metadata from 
  
 <div align = "justify">
 For access to the encrypted files contained within this GitHub repository and to obtain the necessary decryption key, please direct the inquiries to the rightful repository administrator and author via the available contact information. These files have been encrypted to safeguard sensitive and private data, ensuring compliance with privacy and security protocols of the GitHub community.
-</div>
+</div><br>
 
 <!-- FOOTER -->
 <img src = "IMPORT FILES/PROJECTFooter.png" alt = "Project Footer"></a>
