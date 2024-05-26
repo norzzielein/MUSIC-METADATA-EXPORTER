@@ -15207,7 +15207,7 @@ In the initial segment of the code, critical Python libraries are imported to la
 </div>
 
 </div>
-<div id="cell-id=4c4fa13e" class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div id="cell-id=fcc1a70d" class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -15228,7 +15228,7 @@ A function named <strong>StylingPrintMessages</strong> is defined to stylize and
 </div>
 </div>
 </div>
-</div><div id="cell-id=445552ee" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div id="cell-id=976a5011" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -15459,10 +15459,8 @@ The <strong>ConvertingMusicSize</strong> function is defined to convert the size
         <br>
     </summary>
     <div style = "padding: 8px; padding-left: 0px; text-align: justify;"> 
-The <strong>ProcessingMusicMetadata</strong> function is defined to process metadata of music files located within the directory specified by <strong>MusicFolderPath</strong>. The function initializes an empty dictionary named <strong>MusicMetadata</strong> with keys representing different metadata attributes such as music title, album, artist, length, and size. It also sets a flag named <strong>MP3Exist</strong> to track the existence of MP3 files in the directory.
-<p>The function then iterates through each file in the directory using <strong>os.walk</strong>, checking if the file has a &quot;.mp3&quot; extension. If an MP3 file is found, it extracts metadata using <strong>TinyTag.get()</strong> and retrieves attributes such as title, album, artist, duration, and file size. The duration is formatted into minutes and seconds using the <strong>FormattingMusicLength</strong> function, and the file size is converted to megabytes using the <strong>ConvertingMusicSize</strong> function. Additionally, it attempts to extract album art using the <strong>ExtractingMusicAlbumArts</strong> function.</p>
-<p>The metadata attributes are then appended to the <strong>MusicMetadata</strong> dictionary corresponding to their respective keys. If no MP3 files are found in the directory, an error message is displayed using the <strong>StylingPrintMessages</strong> function. Finally, the function returns the populated <strong>MusicMetadata</strong> dictionary containing metadata for all MP3 files found in the directory. This function facilitates the extraction and organization of metadata from music files for further processing or display.
-    </div></p>
+The <strong>ProcessingMusicMetadata</strong> function is defined to process metadata of music files located within the directory specified by <strong>MusicFolderPath</strong>. The function initializes an empty dictionary named <strong>MusicMetadata</strong> with keys representing different metadata attributes such as music title, album, artist, length, and size. It also sets a flag named <strong>MP3Exist</strong> to track the existence of MP3 files in the directory. The function then iterates through each file in the directory using <strong>os.walk</strong>, checking if the file has a ".mp3" extension. If an MP3 file is found, it extracts metadata using <strong>TinyTag.get()</strong> and retrieves attributes such as title, album, artist, duration, and file size. The duration is formatted into minutes and seconds using the <strong>FormattingMusicLength</strong> function, and the file size is converted to megabytes using the <strong>ConvertingMusicSize</strong> function. Additionally, it attempts to extract album art using the <strong>ExtractingMusicAlbumArts</strong> function. The metadata attributes are then appended to the <strong>MusicMetadata</strong> dictionary corresponding to their respective keys. If no MP3 files are found in the directory, an error message is displayed using the <strong>StylingPrintMessages</strong> function. Finally, the function returns the populated <strong>MusicMetadata</strong> dictionary containing metadata for all MP3 files found in the directory. This function facilitates the extraction and organization of metadata from music files for further processing or display.
+    </div>
 </details>
 
 </div>
@@ -15565,10 +15563,8 @@ The <strong>ExportingExcelFile</strong> function is defined to export music meta
         <br>
     </summary>
     <div style = "padding: 8px; padding-left: 0px; text-align: justify;"> 
-For the final segment of the code, the defined functions are executed in a sequential manner to process music metadata and export it to an Excel file. First, the <strong>DefiningMusicFolderPath</strong> function is called to prompt the user to select a music folder path, and the returned value is stored in the variable <strong>MusicFolderPath</strong>. Then, an export folder path is defined using <strong>os.getcwd()</strong> to get the current working directory and <strong>os.path.join()</strong> to append the "EXPORT FILES" directory name. This path is stored in the variable <strong>ExportFolderPath</strong>.
-<p>Next, the <strong>ExcelFilePath</strong> is constructed by joining the <strong>ExportFolderPath</strong> with the file name &quot;MusicMetadata.xlsx&quot;, creating the path where the Excel file will be saved. The <strong>ProcessingMusicMetadata</strong> function is called with <strong>MusicFolderPath</strong> as an argument to extract and organize metadata from music files, and the resulting metadata is stored in the variable <strong>MusicMetadata</strong>.</p>
-<p>Finally, the <strong>ExportingExcelFile</strong> function is invoked with <strong>ExcelFilePath</strong> and <strong>MusicMetadata</strong> as arguments to export the music metadata to an Excel file. This sequential execution ensures that the music metadata is processed and exported efficiently, with clear feedback messages displayed during each step.
-    </div></p>
+For the final segment of the code, the defined functions are executed in a sequential manner to process music metadata and export it to an Excel file. First, the <strong>DefiningMusicFolderPath</strong> function is called to prompt the user to select a music folder path, and the returned value is stored in the variable <strong>MusicFolderPath</strong>. Then, an export folder path is defined using <strong>os.getcwd()</strong> to get the current working directory and <strong>os.path.join()</strong> to append the "EXPORT FILES" directory name. This path is stored in the variable <strong>ExportFolderPath</strong>. Next, the <strong>ExcelFilePath</strong> is constructed by joining the <strong>ExportFolderPath</strong> with the file name "MusicMetadata.xlsx", creating the path where the Excel file will be saved. The <strong>ProcessingMusicMetadata</strong> function is called with <strong>MusicFolderPath</strong> as an argument to extract and organize metadata from music files, and the resulting metadata is stored in the variable <strong>MusicMetadata</strong>. Finally, the <strong>ExportingExcelFile</strong> function is invoked with <strong>ExcelFilePath</strong> and <strong>MusicMetadata</strong> as arguments to export the music metadata to an Excel file. This sequential execution ensures that the music metadata is processed and exported efficiently, with clear feedback messages displayed during each step.
+    </div>
 </details>
 
 </div>
